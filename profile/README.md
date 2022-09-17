@@ -6,6 +6,6 @@
 
 
 🙋‍♀️ WeBeginners Community is all about learn,code and collaborating together with the important topics.<br>
-🌈 Please follow the <a href="">Code of Conduct</a><br/>
+🌈 Please follow the <a href="https://github.com/WeBeginners-Community/.github/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a><br/>
 👩‍💻 
 🍿 🧙 Fun facts - Coffee and Chilling Netflix
